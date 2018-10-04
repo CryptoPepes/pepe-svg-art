@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2501 2501">
+  <title>PepeFrogFrakenstein</title>
+  <rect x="0.5" y="0.5" width="2500" height="2500" style="fill: #fff;stroke: #000"/>
+  <g>
+    <path d="M1977.89,1164.73S2018,958.93,1991,874.92c0,0-135.63-129.54-579.67-93.54S800,880.92,803,910.92s-4.23,367.82,16.78,499.83c0,0,60-108,153-96l78-9,45-168,33,93,69-174,105,27,18-69,96,63,48-63,84,81,15-63,96,63,24-63,66,57,54-63,51,75,39-45Z" transform="translate(0.5 0.5)" style="stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 8.504px"/>
+    <g>
+      <path d="M1338.59,1088c-2.4-22.57,16.5-45,30-27s24,72,9,78S1346.09,1158.52,1338.59,1088Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+      <path d="M1500.41,1112.89c0.8-22.68,22.67-42.22,33.5-22.5s13.62,74.66-2.08,78.49S1497.9,1183.74,1500.41,1112.89Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+      <path d="M1670.41,1142.89c0.8-22.68,22.67-42.22,33.5-22.5s13.62,74.66-2.08,78.49S1667.9,1213.74,1670.41,1142.89Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+      <path d="M1796.41,1120.89c0.8-22.68,22.67-42.22,33.5-22.5s13.62,74.66-2.08,78.49S1793.9,1191.74,1796.41,1120.89Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+      <path d="M1914,1166.67c-11.6-19.51-3.78-47.78,16-37.05s51.85,55.42,40.72,67.13S1950.2,1227.62,1914,1166.67Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+      <path d="M1172.59,1162c-2.4-22.57,16.5-45,30-27s24,72,9,78S1180.09,1232.52,1172.59,1162Z" transform="translate(0.5 0.5)" style="fill: #fff;stroke: #000;stroke-width: 9px"/>
+    </g>
+    <g>
+      <path d="M842.24,1331.26S987.87,1345,1009.52,1349s33.46,27.55,31.49,72.82-25.58,70.85-37.39,66.92-157.45,0-157.45,0Z" transform="translate(0.5 0.5)" style="fill: #868386;stroke: #000;stroke-width: 9px"/>
+      <path d="M730.05,1270.25c31.49-11.81,118.08-3.94,129.89,21.65s25.58,104.31,21.65,167.29-27.55,88.56-39.36,94.47-104.31,15.75-122,3.94S710.47,1277.6,730.05,1270.25Z" transform="translate(0.5 0.5)" style="fill: #585358;stroke: #000;stroke-width: 9px"/>
+      <path d="M684.55,1328.14c10.44-52.19,70.86-94.48,106.29-20.67s8,224.48-35.43,245.05C699.32,1579.1,649.12,1505.29,684.55,1328.14Z" transform="translate(0.5 0.5)" style="fill: #868386;stroke: #000;stroke-width: 9px"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+ <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ 	 viewBox="0 0 2500 2500" style="enable-background:new 0 0 2500 2500;" xml:space="preserve">
+     <g id="Layer-1">
+        <path d="M787,1415c0,0 -92,-24 -92,-88c0,-64 36,-144 68,-132c32,12 72,36 72,36l-48,184Z" style="fill:#2f2f2f;fill-rule:nonzero;stroke:#000;stroke-width:8px;"/>
+        <path d="M1547,1183c192.317,-4.69 324,0 324,-28c0,0 235.318,28 265.659,92c30.341,64 50.341,396 -37.659,412c-88,16 -868,84 -988,60c-120,-24 -304,-168 -332,-228c-28,-60 4,-276 72,-308c68,-32 368,8 696,0Z" style="fill:#f2f2f2;fill-rule:nonzero;stroke:#000;stroke-width:8px;"/>
+        <path d="M1672.83,1231c233.765,7.07 425.495,-32 463.828,16c38.333,48 63.173,408 -9.659,452c-72.833,44 -764.666,56 -864.332,44c-99.665,-12 -164.831,-4 -180.165,-48c-15.333,-44 -26.833,-396 46,-448c72.833,-52 279.831,-24 544.328,-16Z" style="fill:#2f2f2f;fill-rule:nonzero;stroke:#000;stroke-width:8px;"/>
+        <path d="M1183,1635c0,0 -40,-332 32,-368c72,-36 332,16 532,12c200,-4 336,-36 364,0c0,0 -132,8 -196,16c-64,8 -216,24 -348,12c-132,-12 -260,-32 -324,-4c-64,28 -60,332 -60,332Z" style="fill:#8a8a8a;fill-rule:nonzero;"/>
+    </g>
+</svg>
