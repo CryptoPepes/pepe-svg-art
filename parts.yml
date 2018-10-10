@@ -291,7 +291,7 @@ parts:
       id: "egyptian_hat"
       colors:
         "Head.Hair.HatColor2": "#437dc0"
-        "Head.Hair.HatColor1": "#4353c0"
+        "Head.Hair.HatColor": "#4353c0"
     - front: "Frankenstein.svg"
       back: "Frankenstein_back.svg"
       id: "frankenstein"
@@ -302,7 +302,7 @@ parts:
       name: "Indian Hat"
       colors:
         "Head.Hair.HatColor2": "#ffbd35"
-        "Head.Hair.HatColor1": "#ff6819"
+        "Head.Hair.HatColor": "#ff6819"
         "Extra.Glasses.PrimaryColor": "#ffed31"
     - front: "KimJongUnHair.svg"
       id: "kim_jong_un_hair"
