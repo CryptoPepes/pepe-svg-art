@@ -99,6 +99,9 @@ parts:
     - back: "FutureRobotEyes.svg"
       id: "future_robot_eyes"
       name: "Future Robot eyes"
+      colors:
+        "Extra.Glasses.PrimaryColor": "#3a60ff"
+        "Extra.Glasses.SecondaryColor": "#2392ff"
     - back: "MonkasEye.svg"
       id: "monkas_eye"
       name: "Monkas Eye"
@@ -286,7 +289,9 @@ parts:
       name: "Chaplin"
     - front: "EgyptianHat.svg"
       id: "egyptian_hat"
-      name: "Egyptian Hat"
+      colors:
+        "Head.Hair.HatColor2": "#437dc0"
+        "Head.Hair.HatColor1": "#4353c0"
     - front: "Frankenstein.svg"
       back: "Frankenstein_back.svg"
       id: "frankenstein"
@@ -295,6 +300,10 @@ parts:
       back: "IndianHat_back.svg"
       id: "indian_hat"
       name: "Indian Hat"
+      colors:
+        "Head.Hair.HatColor2": "#ffbd35"
+        "Head.Hair.HatColor1": "#ff6819"
+        "Extra.Glasses.PrimaryColor": "#ffed31"
     - front: "KimJongUnHair.svg"
       id: "kim_jong_un_hair"
       name: "Kim Jong Un Hair"
@@ -305,6 +314,8 @@ parts:
     - front: "Mcafee.svg"
       id: "mcafee"
       name: "John McAfee"
+      colors:
+        "Head.Hair.HairColor": "#f5e392"
     - front: "MinerHat2.svg"
       id: "minerhat2"
       name: "Miner Hat2"
@@ -323,10 +334,15 @@ parts:
       back: "Rollers_back.svg"
       id: "rollers"
       name: "Rollers"
+      colors:
+        "Head.Hair.HairColor": "#8d3d26"
+        "Head.Hair.HatColor2": "#eb2626"
     - front: "Samurai.svg"
       back: "Samurai_back.svg"
       id: "samurai"
       name: "Samurai"
+      colors:
+        "Head.Hair.HatColor2": "#00f"
     - front: "SombreroHat.svg"
       id: "sombrero_hat"
       name: "Sombrero Hat"
@@ -351,6 +367,12 @@ parts:
     - front: "WizardHat.svg"
       id: "wizard_hat"
       name: "Wizard Hat"
+    - front: "vitalik_hair_front.svg"
+      back: "vitalik_hair_back.svg"
+      id: "vitalik_hair"
+      name: "Vitalik Hair"
+      colors:
+        "Skin.Color": "#68984e"
   mouth:
     - front: "Basic Lips.svg"
       id: "basic_lips"
@@ -436,9 +458,13 @@ parts:
     - front: "DrinkCoffee.svg"
       id: "drink_coffee"
       name: "Drink Coffee"
+      colors:
+        "Skin.Color": "#68984e"
     - front: "DrinkWine.svg"
       id: "drink_wine"
       name: "Drink Wine"
+      colors:
+        "Skin.Color": "#68984e"
     - front: "FeelsBirthday.svg"
       id: "feels_birthday"
       name: "Feels Birthday"
@@ -496,3 +522,9 @@ parts:
       back: "DraculaBack.svg"
       id: "dracula"
       name: "Dracula Suit"
+    - back: "vitalik_shirt_back.svg"
+      front: "vitalik_shirt_front.svg"
+      id: "vitalik_shirt"
+      name: "Vitalik Shirt"
+      colors:
+        "Skin.Color": "#68984e"
