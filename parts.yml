@@ -22,7 +22,8 @@ parts:
       name: "background"
       colors:
         "BackgroundColor": "#E6E6E6"
-    - back: "Head.svg"
+    - back: "HeadBack.svg"
+      front: "HeadFront.svg"
       id: "head"
       name: "head"
       colors:
