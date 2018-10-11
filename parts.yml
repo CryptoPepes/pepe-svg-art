@@ -456,6 +456,8 @@ parts:
     - front: "SmugMustache.svg"
       id: "smug_mustache"
       name: "Smug Mustache"
+      colors:
+        "Skin.Color": "#68984E"
     - front: "DrinkCoffee.svg"
       id: "drink_coffee"
       name: "Drink Coffee"
